@@ -1,3 +1,15 @@
+## Cấu trúc thư mục src
+Folder components: những thành phần có thể tái sử dụng bao gồm (Header, Footer, Layout(tổng hợp Footer, Header, render ra 2 thành phần con là ProductListPage và ProductDetailPage)), ProductCard (thẻ sản phẩm cụ thể), Pagination (thanh phân trang))
+Folder pages: ProductListPage, ProductDetailPage
+Mỗi 1 Folder con đều có 2 file index.js và index.css
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
